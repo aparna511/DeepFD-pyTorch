@@ -1,5 +1,4 @@
-__author__ = 'Tong Zhao'
-__email__ = 'tzhao2@nd.edu'
+
 
 import os
 import sys
